@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class calculadoraImc{
+public class CalculadoraImc{
 	public static void main(String[]args){
 		//declaramos variables
 		String nombre, letraDni;
@@ -46,4 +46,5 @@ public class calculadoraImc{
 		
 		
 	}
+
 }
