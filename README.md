@@ -19,8 +19,12 @@
 - **Abstracción:** Entendimiento de objetos y su interacción dentro de un sistema.
 
 ### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Próximos Pasos
-- [ ] Pilares de POO: Herencia, Polimorfismo y Encapsulamiento.
-- [ ] Consumo de APIs externas y persistencia de datos (SQL).
+- [ ] Desarrollo de Clases.
+- [ ] Utilizacion Avanzada De Clases.
+- [ ] Colecciones De Datos.
+- [ ] Almacenamientos de Datos.
+- [ ] Interfaces Graficas.
+- [ ] Acceso a Base de Datos.
 
 
 ---
@@ -28,13 +32,13 @@
 ## 📂 Estructura del Repositorio
 Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
-*   **Fundamentos:** Ejercicios de lógica básica y sintaxis.
+*   **Fundamentos:** Ejercicios de lógica, sintaxis, entendimiento de problemas con codigos estructurales.
 *   **Programación Orientada a Objetos:** Modelado de clases y lógica de negocio.
 *   **Proyectos Prácticos/Examenes:** Pequeñas aplicaciones funcionales (Calculadoras, Sistemas de Gestión, etc.).
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/1f91b95e-449c-4c4c-899a-343d7896f243" /> Herramientas utilizadas
 *   **Lenguaje:** Java 17+
 *   **IDE:** (Notepad ++  / VS Code / Sublime text)
 *   **Control de Versiones:** Git y GitHub
