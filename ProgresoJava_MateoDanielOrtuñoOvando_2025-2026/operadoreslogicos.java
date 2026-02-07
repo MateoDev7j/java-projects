@@ -1,4 +1,4 @@
-public class operadoreslogicos { 
+public class Operadoreslogicos { 
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("OPERADORES LÓGICOS");
