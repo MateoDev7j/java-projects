@@ -1,3 +1,4 @@
+//Mateo Daniel Ortuño Ovando
 import java.util.Scanner;
 public class PruebaExamen{
 	public static void main(String []args){
@@ -15,4 +16,5 @@ public class PruebaExamen{
 	invertido = unidades *100 + decenas *10 + centenas;
 	System.out.println("numero invertido: " + invertido);
 	}
+
 }
