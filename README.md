@@ -38,14 +38,14 @@ Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
 ---
 
-## <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/1f91b95e-449c-4c4c-899a-343d7896f243" /> Herramientas utilizadas
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/1f91b95e-449c-4c4c-899a-343d7896f243" /> Herramientas utilizadas
 *   **Lenguaje:** Java 17+
 *   **IDE:** (Notepad ++  / VS Code / Sublime text)
 *   **Control de Versiones:** Git y GitHub
 
 ---
 
-## 📈 Mi Progreso
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/b4188834-f9b5-45ca-b7ce-1a836f0ac2e9" /> Mi Progreso
 > "La única forma de aprender a programar es escribiendo código." 
 Cada archivo en este repo representa un paso más hacia el dominio de Java. ¡Siéntete libre de revisar los archivos y darme feedback!
 <br> <img width="190" height="200" alt="Image" src="https://github.com/user-attachments/assets/07e1701f-2b56-41e5-a29c-9aeb29ab3485" />
