@@ -45,7 +45,7 @@ Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
 ---
 
-##  Mi Progreso <br><img width="336" height="150" alt="Image" src="https://github.com/user-attachments/assets/74bf791e-b3f0-4ce8-9e96-02df486e4eba" />
+##  Mi Progreso <br><img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/f203396a-df8b-4c42-993e-d2d33ad355b3" />
 > "La única forma de aprender a programar es escribiendo código." 
 Cada archivo en este repo representa un paso más hacia el dominio de Java. ¡Siéntete libre de revisar los archivos y darme feedback!
 <br> <img width="190" height="200" alt="Image" src="https://github.com/user-attachments/assets/07e1701f-2b56-41e5-a29c-9aeb29ab3485" />
