@@ -1,3 +1,4 @@
+//Mateo Daniel Ortuño Ovando
 import java.util.Scanner;
 public class CalculadoraImc{
 	public static void main(String[]args){
@@ -48,3 +49,4 @@ public class CalculadoraImc{
 	}
 
 }
+
