@@ -52,5 +52,5 @@ Cada archivo en este repo representa un paso más hacia el dominio de Java. ¡Si
 
 ---
 *Si te gusta este progreso, ¡regálame una ⭐!*
-**Mateo Daniel Ortuño Ovando**
+**Mateo Daniel Ortuño Ovando**<br>
 **Readme hecho el 06/02/2026**
