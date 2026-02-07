@@ -29,7 +29,7 @@
 
 ---
 
-## 📂 Estructura del Repositorio
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/047772f5-63f2-472c-b935-b45554a1a682" /> Estructura del Repositorio
 Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
 *   **Fundamentos:** Ejercicios de lógica, sintaxis, entendimiento de problemas con codigos estructurales.
@@ -51,6 +51,6 @@ Cada archivo en este repo representa un paso más hacia el dominio de Java. ¡Si
 <br> <img width="190" height="200" alt="Image" src="https://github.com/user-attachments/assets/07e1701f-2b56-41e5-a29c-9aeb29ab3485" />
 
 ---
-*Si te gusta este progreso, ¡regálame una ⭐!*
+*Si te gusta este progreso, ¡regálame una ⭐!*<br>
 **Mateo Daniel Ortuño Ovando**<br>
 **Readme hecho el 06/02/2026**
