@@ -6,19 +6,19 @@
 
 ## Ruta de Aprendizaje y Temas Dominados//
 
-### 🟢 Fundamentos y Lógica Estructural (Completado)
+### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Fundamentos y Lógica Estructural (Completado)
 - **Estructuras de Control:** Dominio de condicionales (`if/else`, `switch`) y bucles avanzados (`for`, `while`, `do-while`).
 - **Algoritmos de Lógica:** Resolución de problemas complejos mediante código estructural.
 - **Estructuras de Almacenamiento:** Manejo profundo de Arrays y **Matrices** (Arrays multidimensionales) con lógica de bucles anidados.
 - **Java API (java.lang):** Uso de funciones esenciales de `String`, `Integer`, `Character`, `Double` y `Scanner`.
 - **Validaciones con Regex:** Implementación de expresiones regulares para tratamiento de texto.
 
-### 🟡 Programación Orientada a Objetos - POO (En proceso)
+### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Programación Orientada a Objetos - POO (En proceso)
 - **Modelado:** Diseño de clases mediante diagramas **UML**.
 - **Componentes:** Creación de constructores, atributos y métodos (instancia y estáticos).
 - **Abstracción:** Entendimiento de objetos y su interacción dentro de un sistema.
 
-### 🔴 Próximos Pasos
+### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Próximos Pasos
 - [ ] Pilares de POO: Herencia, Polimorfismo y Encapsulamiento.
 - [ ] Consumo de APIs externas y persistencia de datos (SQL).
 
