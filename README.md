@@ -1,4 +1,4 @@
-# ![Texto alternativo]() Mis Prácticas y Proyectos en Java
+# <img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/8e65d8d1-1f4e-4ed8-9ce7-4fccbe292490" /> Mis Prácticas y Proyectos en Java
 
 ¡Bienvenido a mi bitácora de aprendizaje! Este repositorio es una colección de **133 ejercicios** donde documento mi evolución como desarrollador Java, desde los conceptos más básicos hasta la lógica avanzada.
 
