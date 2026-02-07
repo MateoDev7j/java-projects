@@ -29,7 +29,7 @@
 
 ---
 
-## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/047772f5-63f2-472c-b935-b45554a1a682" /> Estructura del Repositorio
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/047772f5-63f2-472c-b935-b45554a1a682" /> Estructura del Repositorio
 Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
 *   **Fundamentos:** Ejercicios de lógica, sintaxis, entendimiento de problemas con codigos estructurales.
@@ -38,7 +38,7 @@ Actualmente, el repositorio cuenta con los siguientes módulos de práctica:
 
 ---
 
-## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/1f91b95e-449c-4c4c-899a-343d7896f243" /> Herramientas utilizadas
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/34650fad-e5dc-4ea5-b144-e4bd9afc625c" /> Herramientas utilizadas
 *   **Lenguaje:** Java 17+
 *   **IDE:** (Notepad ++  / VS Code / Sublime text)
 *   **Control de Versiones:** Git y GitHub
