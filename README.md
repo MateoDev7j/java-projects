@@ -1,4 +1,4 @@
-# ☕ Mis Prácticas y Proyectos en Java
+# ![Texto alternativo]([https://url-de-tu-imagen.com/imagen.png](https://cdn-icons-png.flaticon.com/256/226/226777.png)) Mis Prácticas y Proyectos en Java
 
 ¡Bienvenido a mi bitácora de aprendizaje! Este repositorio es una colección de **133 ejercicios** donde documento mi evolución como desarrollador Java, desde los conceptos más básicos hasta la lógica avanzada.
 
