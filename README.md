@@ -13,7 +13,7 @@
 - **Java API (java.lang):** Uso de funciones esenciales de `String`, `Integer`, `Character`, `Double` y `Scanner`.
 - **Validaciones con Regex:** Implementación de expresiones regulares para tratamiento de texto.
 
-### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Programación Orientada a Objetos - POO (En proceso)
+### <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c06be97b-1919-498f-a11e-6a7dd94eb9fd" /> Programación Orientada a Objetos - POO 
 - **Modelado:** Diseño de clases mediante diagramas **UML**.
 - **Componentes:** Creación de constructores, atributos y métodos (instancia y estáticos).
 - **Abstracción:** Entendimiento de objetos y su interacción dentro de un sistema.
